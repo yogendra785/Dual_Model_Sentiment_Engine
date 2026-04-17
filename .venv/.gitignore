@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Data and Models
+data/
+models/
+
+# Cache files
+__pycache__/
+*.pyc
+.DS_Store

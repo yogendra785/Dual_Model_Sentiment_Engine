@@ -1,0 +1,16 @@
+# Data & Cleaning (Phase 2 & 3)
+pandas
+numpy
+nltk
+beautifulsoup4
+
+# Visualization / EDA (Phase 3)
+matplotlib
+seaborn
+wordcloud
+
+# Traditional ML Baseline (Phase 4)
+scikit-learn
+
+# Deployment (Phase 6)
+streamlit
